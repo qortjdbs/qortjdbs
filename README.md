@@ -2,8 +2,8 @@
 <h3 align="center">A passionate ML Engineer from South Korea</h3>
 
 <div align = 'center'>
-- ISEF Finalist
-- 1st Prize in UNIST Supercomputing Chellenge
+- ISEF Finalist<br>
+- 1st Prize in UNIST Supercomputing Chellenge<br>
 - Tensorflow Developer Certificate
 </div>
 
