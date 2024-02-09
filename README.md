@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seoyun Baek</h1>
 <h3 align="center">A passionate ML Engineer from South Korea</h3>
 
+<p align="center">
 - ISEF Finalist
 
 <h3 align="center">Languages and Tools:</h3>
