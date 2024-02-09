@@ -5,9 +5,6 @@
 - 1st Prize in UNIST Supercomputing Chellenge
 - Tensorflow Developer Certificate
 
-- 🔭 I’m currently working on **CNN based Communication Assistant for Visually Impaired**
-- 📫 How to reach me **bsy2430735@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/b.seo_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.seo_y" height="30" width="40" /></a>
