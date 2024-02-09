@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seoyun Baek</h1>
 <h3 align="center">A passionate ML Engineer from South Korea</h3>
 
-- 🔭 I’m currently working on **CNN based Communication Assistant for Visually Impaired**
+- ISEF Finalist
+- 1st Prize in UNIST Supercomputing Chellenge
+- Tensorflow Developer Certificate
 
+- 🔭 I’m currently working on **CNN based Communication Assistant for Visually Impaired**
 - 📫 How to reach me **bsy2430735@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
