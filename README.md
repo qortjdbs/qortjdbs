@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Seoyun Baek</h1>
 <h3 align="center">A passionate ML Engineer from South Korea</h3>
 
+<div aligh = 'center'>
 - ISEF Finalist
 - 1st Prize in UNIST Supercomputing Chellenge
 - Tensorflow Developer Certificate
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
