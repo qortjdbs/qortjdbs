@@ -31,8 +31,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 <br>   
     
