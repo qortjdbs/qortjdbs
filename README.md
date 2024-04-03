@@ -14,11 +14,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Graduated Davis Harper Junior High 
+- Studying in Korean Minjok Leadership Academy 
+- A passionate Machine Learning Engineer 
+- ISEF Finalist (National Representative of South Korea)
+- Currently learning Financial Engineering by Self
 
 <br><br>
 
@@ -31,8 +31,7 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
