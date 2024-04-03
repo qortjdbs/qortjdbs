@@ -49,7 +49,7 @@
 
 - **Softwares and Tools**:
   
-   [![My Skills](https://skillicons.dev/icons?i=github,jupyter,pycharm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=github,vscode,pycharm)](https://skillicons.dev)
 
 <br>
 
