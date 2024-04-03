@@ -35,9 +35,9 @@
 
 <br>   
     
-- **Data Processing**:
+- **Data Processing/Visualizing**:
 
-   [![My Skills](https://skillicons.dev/icons?i=numpy,pandas,opencv)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=opencv,seaborn)](https://skillicons.dev)
 
 <br>
 
