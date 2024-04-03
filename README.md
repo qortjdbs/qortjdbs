@@ -31,7 +31,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,java,R)](https://skillicons.dev)
 
 <br>   
     
