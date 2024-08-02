@@ -12,10 +12,9 @@
 
 <br>
 
-- Graduated Davis Harper Junior High 
-- Studying in Korean Minjok Leadership Academy 
-- A passionate Machine Learning Engineer 
-- ISEF Finalist (National Representative of South Korea)
+- Studying in Korean Minjok Leadership Academy
+- Interested in Data Science & Computer Vision
+- ISEF '24 Finalist (National Representative of South Korea)
 - Currently learning Financial Engineering by Self
 
 <br><br>
